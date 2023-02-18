@@ -89,3 +89,4 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall -S cypress
 ```
+Site Link: https://peterandsmithcollection.netlify.app/
